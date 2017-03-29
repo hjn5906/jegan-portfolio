@@ -42,6 +42,44 @@ a
 	box-shadow:3px 5px 5px 6px #ccc;
 }
 
+/*About Me Content block*/
+.blockA{
+  border:solid 1px #07eff2;
+  margin-left:9px; 
+  margin-right:9px; 
+  overflow:auto;
+  border-radius:5px 20px 5px;
+  -webkit-border-radius:5px 20px 5px;
+  -ms-border-radius:5px 20px 5px;
+  -moz-border-radius:5px 20px 5px;
+  -o-border-radius:5px 20px 5px;
+  -webkit-box-shadow:3px 5px 5px 6px #ccc;
+  -ms-box-shadow:3px 5px 5px 6px #ccc;
+  -moz-box-shadow:3px 5px 5px 6px #ccc;
+  -o-box-shadow:3px 5px 5px 6px #ccc;
+  box-shadow:3px 5px 5px 6px #ccc;
+  
+}
+
+.blockA h3
+{
+	padding:0;
+	margin:0;
+	padding:10px;
+	color:#acabab;
+	font-size:30px;
+}
+
+.blockA p
+{
+	padding:10px;
+	color:#acabab;
+	font-size:20px;
+	text-align:left;
+	margin:0;
+	word-spacing:1px;
+}
+
 /*Projects block*/
 .block2
 {
